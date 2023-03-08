@@ -1,0 +1,11 @@
+databaseChangeLog:
+  - include:
+      file: db/changelog/changeset/1-create-student-table.yaml
+  - include:
+      file: db/changelog/changeset/2-create-book-table.yaml
+  - include:
+      file: db/changelog/changeset/3-create-authors-table.yaml
+  - include:
+      file: db/changelog/changeset/4-create-genres-table.yaml
+  - include:
+      file: db/changelog/changeset/5-create-student-book-table.yaml

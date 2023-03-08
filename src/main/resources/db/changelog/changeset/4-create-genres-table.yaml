@@ -1,0 +1,19 @@
+databaseChangeLog:
+  - changeSet:
+      id: create-student-table
+      author: 'Juke'
+      changes:
+        - createTable:
+            tableName: 'genres'
+            columns:
+              - column:
+                  name: 'book_id'
+                  type: bigint
+                  autoIncrement: true
+                  constraints:
+                    foreignKeyName: 'genre'
+              - column:
+                  name: 'genre'
+                  type: varchar(100)
+                  constraints:
+                    nullable: false

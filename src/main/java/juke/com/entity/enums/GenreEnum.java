@@ -1,0 +1,22 @@
+package juke.com.entity.enums;
+
+public enum GenreEnum {
+  DETECTIVE,
+  FANTASY,
+  ADVENTURES,
+  NOVEL,
+  SCIENCE,
+  HORROR,
+  HUMOR,
+  FOLKLORE,
+  GUIDE,
+  CHILDREN,
+  NONFICTION,
+  BUSINESS,
+  RELIGIOUS,
+  EDUCATION,
+  HOBBIES,
+  FOREIGN,
+  TECHNIC,
+  PC_AND_IT
+}

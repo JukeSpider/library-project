@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "A Game of Thrones",
+    "series": "A Song of Ice and Fire",
+    "author": [
+      "George Martin"
+    ],
+    "publicationYear": 1996,
+    "quantity": 20,
+    "genre": [
+      "FANTASY",
+      "FOREIGN",
+      "ADVENTURES"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Killing Floor",
+    "series": "Jack Reacher",
+    "author": [
+      "Lee Child"
+    ],
+    "publicationYear": 1997,
+    "quantity": 15,
+    "genre": [
+      "FOREIGN",
+      "DETECTIVE",
+      "ADVENTURES"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "The Adventures of Dunno and his Friends",
+    "series": "Dunno",
+    "author": [
+      "Nikolay Nosov"
+    ],
+    "publicationYear": 1954,
+    "quantity": 34,
+    "genre": [
+      "CHILDREN",
+      "ADVENTURES",
+      "HUMOR"
+    ]
+  }
+]

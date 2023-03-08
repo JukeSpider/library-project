@@ -1,0 +1,65 @@
+[
+  {
+    "id": 4,
+    "name": "Philosopher's Stone",
+    "series": "Harry Potter",
+    "author": [
+      "Joanne Rowling"
+    ],
+    "publicationYear": 1997,
+    "quantity": 54,
+    "genre": [
+      "FANTASY",
+      "FOREIGN",
+      "CHILDREN",
+      "ADVENTURES"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Chamber of Secrets",
+    "series": "Harry Potter",
+    "author": [
+      "Joanne Rowling"
+    ],
+    "publicationYear": 1998,
+    "quantity": 44,
+    "genre": [
+      "FOREIGN",
+      "FANTASY",
+      "CHILDREN",
+      "ADVENTURES"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "The Gunslinger",
+    "series": "The Dark Tower",
+    "author": [
+      "Stephen King"
+    ],
+    "publicationYear": 1982,
+    "quantity": 8,
+    "genre": [
+      "FOREIGN",
+      "HORROR",
+      "FANTASY",
+      "ADVENTURES"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "A Clash of Kings",
+    "series": "A Song of Ice and Fire",
+    "author": [
+      "George Martin"
+    ],
+    "publicationYear": 1999,
+    "quantity": 19,
+    "genre": [
+      "FOREIGN",
+      "FANTASY",
+      "ADVENTURES"
+    ]
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "id": 8,
+    "name": "A Storm of Swords",
+    "series": "A Song of Ice and Fire",
+    "author": [
+      "George Martin"
+    ],
+    "publicationYear": 2000,
+    "quantity": 22,
+    "genre": [
+      "FOREIGN",
+      "FANTASY",
+      "ADVENTURES"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "A Feast for Crows",
+    "series": "A Song of Ice and Fire",
+    "author": [
+      "George Martin"
+    ],
+    "publicationYear": 2005,
+    "quantity": 28,
+    "genre": [
+      "FOREIGN",
+      "FANTASY",
+      "ADVENTURES"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "Die Trying",
+    "series": "Jack Reacher",
+    "author": [
+      "Lee Child"
+    ],
+    "publicationYear": 1998,
+    "quantity": 11,
+    "genre": [
+      "FOREIGN",
+      "ADVENTURES",
+      "DETECTIVE"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "The Visitor",
+    "series": "Jack Reacher",
+    "author": [
+      "Lee Child"
+    ],
+    "publicationYear": 2000,
+    "quantity": 5,
+    "genre": [
+      "FOREIGN",
+      "ADVENTURES",
+      "DETECTIVE"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "The Witcher",
+    "series": "The Witcher",
+    "author": [
+      "Andrzej Sapkowski"
+    ],
+    "publicationYear": 1990,
+    "quantity": 12,
+    "genre": [
+      "FOREIGN",
+      "FANTASY",
+      "ADVENTURES"
+    ]
+  }
+]

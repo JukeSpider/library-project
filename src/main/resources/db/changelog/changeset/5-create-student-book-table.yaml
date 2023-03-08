@@ -1,0 +1,20 @@
+databaseChangeLog:
+  - changeSet:
+      id: create-student-table
+      author: 'Juke'
+      changes:
+        - createTable:
+            tableName: 'students_books'
+            columns:
+              - column:
+                  name: 'student_id'
+                  type: bigint
+                  autoIncrement: true
+                  constraints:
+                    foreignKeyName: 'student'
+              - column:
+                  name: 'book_id'
+                  type: bigint
+                  autoIncrement: true
+                  constraints:
+                    foreignKeyName: 'book'

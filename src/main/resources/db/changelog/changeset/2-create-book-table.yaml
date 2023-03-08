@@ -1,0 +1,39 @@
+databaseChangeLog:
+  - changeSet:
+      id: create-student-table
+      author: 'Juke'
+      changes:
+        - createTable:
+            tableName: 'books'
+            columns:
+              - column:
+                  name: 'id'
+                  type: bigint
+                  autoIncrement: true
+                  constraints:
+                    primaryKey: true
+                    nullable: false
+              - column:
+                  name: 'created_at'
+                  type: timestamp
+                  constraints:
+                    nullable: false
+              - column:
+                  name: 'modified_at'
+                  type: timestamp
+                  constraints:
+                    nullable: false
+              - column:
+                  name: 'name'
+                  type: varchar(100)
+                  constraints:
+                    nullable: false
+              - column:
+                  name: 'series'
+                  type: varchar(100)
+              - column:
+                  name: 'year_of_publication'
+                  type: integer
+              - column:
+                  name: 'quantity'
+                  type: integer
